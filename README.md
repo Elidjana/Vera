@@ -11,9 +11,9 @@ Manage roles and permissions
 
 2. Tech Stack 
 
-Backend: Spring Boot (Java), Spring Security, JWT, RESTful API Design  
+Backend: Spring Boot (Java), Spring Security, JPA, JWT, RESTful API Design  
 Frontend: React (SPA)  
-Databases: MySQL or PostgreSQL  
+Databases: MySQL  
 Security: JWT, Roles & Permissions, Customer & Auditor Routes  
 DevOps & Cloud: Docker, GitHub Actions (CI/CD), Automated Deployment, AWS S3  
 Features: Deposit, Withdrawal, Transfer APIs, Email Sending (SMTP), Notifications.  
