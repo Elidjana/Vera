@@ -7,15 +7,9 @@ Perform financial transactions
 Receive notifications
 Authenticate securely
 Manage roles and permissions
+  
 
-
-2. The system follows a modular architecture with:
-
-Frontend (UI/UX)  
-Backend (business logic)  
-Database (persistent storage)  
-Authentication module (security layer)  
-
+2. Tech Stack 
 
 Backend: Spring Boot (Java), Spring Security, JWT, RESTful API Design  
 Frontend: React (SPA)  
@@ -24,7 +18,14 @@ Security: JWT, Roles & Permissions, Customer & Auditor Routes
 DevOps & Cloud: Docker, GitHub Actions (CI/CD), Automated Deployment, AWS S3  
 Features: Deposit, Withdrawal, Transfer APIs, Email Sending (SMTP), Notifications.  
 
+3. The system follows a modular architecture with:
 
-3. System Architecture
+Frontend (UI/UX)  
+Backend (business logic)  
+Database (persistent storage)  
+Authentication module (security layer)
+
+
+3. Architecture and Entity Diagram 
 
 ![alt text](<Entity Design.png>)
