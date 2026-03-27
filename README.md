@@ -1,12 +1,12 @@
 Vera Bank - Digital Account & Transaction Platform
 1. Product Overview
 
-Vera App is a secure, scalable backend-driven platform that allows users to:
-Create and manage accounts
-Perform financial transactions
-Receive notifications
-Authenticate securely
-Manage roles and permissions
+Vera App is a secure, scalable backend-driven platform that allows users to:  
+Create and manage accounts  
+Perform financial transactions  
+Receive notifications  
+Authenticate securely  
+Manage roles and permissions  
   
 
 2. Tech Stack 
